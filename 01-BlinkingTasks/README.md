@@ -54,3 +54,9 @@ These tasks are scheduled concurrently using FreeRTOS, allowing both LEDs to bli
 
 ---
 
+## 📚 References
+
+- [FreeRTOS API Documentation](https://www.freertos.org/a00106.html)
+- Arduino_FreeRTOS Library for Arduino Uno
+- Embedded Systems multitasking concepts
+
