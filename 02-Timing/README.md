@@ -113,3 +113,9 @@ The difference lies in **how delays are calculated**:
 - Developing real-time applications.
 
 ---
+
+## 📚 References
+
+- [FreeRTOS API Documentation](https://www.freertos.org/a00106.html)
+- Arduino_FreeRTOS Library for Arduino Uno
+- Embedded Systems multitasking concepts
