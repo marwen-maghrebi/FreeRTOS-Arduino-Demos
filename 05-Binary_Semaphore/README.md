@@ -106,7 +106,7 @@ Simulated using the **Wokwi Simulator**, this project includes:
 
 ---
 
-📚 References
+## 📚 References
 - [FreeRTOS API Documentation](https://www.freertos.org/a00106.html)
 - Arduino_FreeRTOS Library
 - Wokwi Arduino Simulator: [wokwi.com](https://wokwi.com/)
